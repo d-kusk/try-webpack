@@ -1,0 +1,19 @@
+{
+  "name": "try-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daisuke KONISHI",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2017": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "coffee-loader": "^0.7.2",
+    "webpack": "^1.13.2"
+  }
+}
